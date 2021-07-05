@@ -6,11 +6,14 @@
 
 nav{
     display: flex;
+    position: fixed;
     justify-content: space-around;
     align-items: center;
     min-height: 8vh;
     font-family: 'Poppins', sans-serif;
     background-color: #5D4954;
+    width: 100%;
+   
 }
 
 .column {
